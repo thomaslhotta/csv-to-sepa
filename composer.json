@@ -1,0 +1,15 @@
+{
+    "name": "thomaslhotta/csv-to-sepa",
+    "description": "A command line tool that converts CSV to SEPA XML files",
+    "require": {
+        "digitick/sepa-xml": "~0.10",
+        "wp-cli/php-cli-tools": "~0.10"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Lhotta",
+            "email": "th.lhotta@gmail.com"
+        }
+    ]
+}

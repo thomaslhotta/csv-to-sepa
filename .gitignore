@@ -1,0 +1,5 @@
+/vendor/
+*.csv
+*.xml
+.~*
+.idea
